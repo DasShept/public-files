@@ -20,8 +20,8 @@ Um den Server aufzusetzen, werden wir hier `mcserv` verwenden.
 4. Wenn dort nun steht, dass der Pfad nicht existiert, dann tippe `y` ein, damit der Pfad erstellt wird.
 5. Wähle bei `Server Distribution auswählen` mit den Pfeiltasten `Paper MC (Recommended)` aus und drücke Enter
 6. Akzeptiere die Minecraft EULA, indem du bei der nächsten Frage `y` eintippst
-7. Wähle bei der `Server Version` die aktuelle Version `1.19`
-8. Wähle bei `Unterversion` die Version `1.19.3`
+7. Wähle bei der `Server Version` die aktuelle Version `1.20`
+8. Wähle bei `Unterversion` die Version `1.20.1`
 9. Wähle bei der `Java Version` eine bestehende Version aus oder installiere eine neue, indem du `Install a new JRE` auswählst (wähle ggf. Java 17)
 10. Warte, bis die Installation beendet wurde
 
